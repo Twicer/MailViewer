@@ -1,0 +1,13 @@
+C:\Users\Dex\Desktop\MailViewer\MailViewer\bin\Debug\MailViewer.exe.config
+C:\Users\Dex\Desktop\MailViewer\MailViewer\bin\Debug\MailViewer.exe
+C:\Users\Dex\Desktop\MailViewer\MailViewer\bin\Debug\MailViewer.pdb
+C:\Users\Dex\Desktop\MailViewer\MailViewer\bin\Debug\Mail.xml
+C:\Users\Dex\Desktop\MailViewer\MailViewer\obj\Debug\MailViewer.csprojResolveAssemblyReference.cache
+C:\Users\Dex\Desktop\MailViewer\MailViewer\obj\Debug\MailViewer.MainForm.resources
+C:\Users\Dex\Desktop\MailViewer\MailViewer\obj\Debug\MailViewer.Properties.Resources.resources
+C:\Users\Dex\Desktop\MailViewer\MailViewer\obj\Debug\MailViewer.csproj.GenerateResource.Cache
+C:\Users\Dex\Desktop\MailViewer\MailViewer\obj\Debug\MailViewer.exe
+C:\Users\Dex\Desktop\MailViewer\MailViewer\obj\Debug\MailViewer.pdb
+C:\Users\Coca-cola\Dropbox\ІІ курс\Зароботки\Курсовая СПЗ\Терещенко\MailViewer\MailViewer\bin\Debug\MailViewer.exe.config
+C:\Users\Coca-cola\Dropbox\ІІ курс\Зароботки\Курсовая СПЗ\Терещенко\MailViewer\MailViewer\obj\Debug\MailViewer.exe
+C:\Users\Coca-cola\Dropbox\ІІ курс\Зароботки\Курсовая СПЗ\Терещенко\MailViewer\MailViewer\obj\Debug\MailViewer.pdb
